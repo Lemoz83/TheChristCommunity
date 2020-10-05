@@ -1,0 +1,55 @@
+body,
+html{
+	background: url('soc2.jpg') no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+h1{
+	color: #F05F44;
+	text-align: top;
+}
+p{
+	color: white ;
+	font-size: 20px;
+}
+
+.btn-primary{
+	font-weight: 700;
+	border-radius: 100px;
+	background-color: #F05F44;
+	border-color: #F05F44;
+}
+
+.btn-outline-secondary{
+	color: white;
+	background-color: #F05F44;
+	border-color: #F05F44;
+	border-radius: 100px;
+}
+.btn-outline-secondary:hover{
+	color: white;
+	background-color: #F05F66;
+	border-color: #F05F66;
+	border-width: 4px;
+	transform:translate(2px);
+}
+.img-responsive{
+	width: 500px;
+	height: 200px;
+}
+.navbar-btn{
+	background-color: #c1eaea;
+	border-color: #c1eaea;
+
+}
+.footer-container{
+	background-color: grey;
+}
+
+}
+
+
+  
+
